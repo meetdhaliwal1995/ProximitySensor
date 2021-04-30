@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Proximity Sensor</string>
+    <string name="applicant_name">Android Codility</string>
+    <string name="info">Proximity detector is non contact type displacement sensor i.e proximity sensor used to are sense and indicate target presence of object to without physical contact.
+    \n\nCapacitive proximity sensing has enabled several features in mobile phones. While these features may not be evident to end users, they provide many important capabilities, including optimized power consumption, integrated functionality, and cost reduction. It is essential that product designers understand the different features that can be implemented through capacitive proximity sensing</string>
+</resources>
